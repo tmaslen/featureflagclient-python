@@ -20,15 +20,14 @@ class Featureflagclient:
 	source_url: ""
 
 	def __init__(self, source_url=None, local_feature_flags=None):
-		if (local_feature_flags):
-			self.features = local_feature_flags
+
+		self.features = local_feature_flags or {}
+
 		if (source_url):
 			self.source_url = source_url
 
 			try: 
 				remote_feature_flag = json.loads(urllib.request.urlopen(source_url).read())
-				print(self.features)
-				print(remote_feature_flag)
 				for remote_feature in remote_feature_flag:
 					if (remote_feature not in self.features):
 						self.features[remote_feature] = remote_feature_flag[remote_feature]
