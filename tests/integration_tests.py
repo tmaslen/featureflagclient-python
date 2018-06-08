@@ -1,6 +1,6 @@
 import pytest
 
-from Featureflagclient import Featureflagclient
+from featureflagclient.client import Featureflagclient
 
 def test_actual_http_request_with_override():
 

@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
   name = 'featureflagclient-python',
-  packages = ['FeatureFlagClient'],
+  packages = ['Featureflagclient'],
   version = '0.0',
   description = 'Service agnostic featureflag client',
   author = 'Tom Maslen',

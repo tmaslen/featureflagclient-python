@@ -2,9 +2,10 @@ from _pytest.monkeypatch import MonkeyPatch
 import pytest
 import urllib.request
 
-from Featureflagclient import Featureflagclient
-from Featureflagclient import FeatureflagclientErrorMalformedJson
-from Featureflagclient import FeatureflagclientError404
+from featureflagclient.client import Featureflagclient
+from featureflagclient.client import FeatureflagclientErrorMalformedJson
+from featureflagclient.client import FeatureflagclientError404
+
 monkeypatch = MonkeyPatch()
 
 def test_constructor():
