@@ -1,0 +1,483 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"featurefla",
+				"featureflagclient-python"
+			],
+			[
+				"e",
+				"expectedMatrix"
+			],
+			[
+				"com",
+				"compressedString"
+			],
+			[
+				"chart",
+				"charAt"
+			],
+			[
+				"on",
+				"oneEditInsert"
+			],
+			[
+				"sort",
+				"sortedP"
+			],
+			[
+				"nu",
+				"numberOfEvenLetters"
+			],
+			[
+				"i",
+				"isUnique"
+			],
+			[
+				"get",
+				"getSourceFile"
+			],
+			[
+				"featu",
+				"featureflagclient-node"
+			],
+			[
+				"_",
+				"_whenedFeature"
+			],
+			[
+				"relative",
+				"relativePathToDir"
+			],
+			[
+				"COLL",
+				"COLLY__PROJECT_DIR"
+			],
+			[
+				"COLLY__",
+				"COLLY__PROJECT_DIR"
+			],
+			[
+				"g",
+				"getLambdaName"
+			],
+			[
+				"dry",
+				"dryRun"
+			],
+			[
+				"add",
+				"additionalFilesForLambda"
+			],
+			[
+				"ex",
+				"exportsJsPath"
+			],
+			[
+				"te",
+				"templateOverride"
+			],
+			[
+				"dotDe",
+				"DotDelimitedProperty"
+			],
+			[
+				"lam",
+				"lambdaArnValue"
+			],
+			[
+				"s",
+				"scheduledExpression"
+			],
+			[
+				"lamb",
+				"lambdaName"
+			],
+			[
+				"create",
+				"createIamRole"
+			],
+			[
+				"stub",
+				"stubbedGetLambdaConfigFile"
+			],
+			[
+				"cre",
+				"createScheduledEvent"
+			],
+			[
+				"ret",
+				"returnValue"
+			],
+			[
+				"remove",
+				"removeScheduledEvent"
+			],
+			[
+				"up",
+				"updateScheduledEvent"
+			],
+			[
+				"event",
+				"eventSchedule"
+			],
+			[
+				"fileP",
+				"filePathSplit"
+			],
+			[
+				"mo",
+				"modulePath"
+			],
+			[
+				"rel",
+				"relativePathToDir"
+			],
+			[
+				"dir",
+				"dirPathInPieces"
+			],
+			[
+				"pod",
+				"podcastUrl"
+			],
+			[
+				"play",
+				"playBehavior"
+			],
+			[
+				"depl",
+				"deployedEnvVars"
+			],
+			[
+				"new",
+				"newEnvVars"
+			],
+			[
+				"update",
+				"updateLambda"
+			],
+			[
+				"session",
+				"sessionAttributes"
+			],
+			[
+				"int",
+				"intentRegistry"
+			],
+			[
+				"types",
+				"typesRegistry"
+			],
+			[
+				"typ",
+				"typesRegistry"
+			],
+			[
+				"app",
+				"applicationId"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-python"
+	],
+	"file_history":
+	[
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-python/featureflagclient-python.sublime-project",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-python/.sublime-project",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-python/featureflagclient/__main__.py",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-python/README.md",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-python/todo.md",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/zeroMatrix.js",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/zeroMatrix.test.js",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-python/featureflagclient/__init__.py",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-python/setup.py",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-python/Pipfile",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-python/setup.cfg",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-python/.flake8",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-python/Pipfile.lock",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/stringCompression.js",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/rotateMatrix.js",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/rotateMatrix.test.js",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/stringCompression.test.js",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/test.js",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/palindromePermutation.test.js",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/palindromePermutation.js",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/oneAway.test.js",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/oneAway.js",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/package.json",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/lib/store.js",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/isUnique.test.js",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/checkPermutation.test.js",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/urlify.test.js",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/urlify.js",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-python/.python-version",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-node/test/unitTests.js",
+		"/Users/tmo2367/Documents/github-projects/featureflag.tech/todo.md",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/isUnique.js",
+		"/Users/tmo2367/Documents/github-projects/CtCI-6th-Edition-JavaScript/chapter_01/checkPermutation.js",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-node/index.js",
+		"/Users/tmo2367/Projects/up-to-date/bodartly/test.txt",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-scala/featureflagclient-scala/src/test/scala/example/HelloSpec.scala",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-scala/featureflagclient-scala/src/main/scala/example/Hello.scala",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-scala/featureflagclient-scala/build.sbt",
+		"/Users/tmo2367/Documents/github-projects/copy-node-module-tree/index.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/lib/dedupe_inline_css.js",
+		"/Users/tmo2367/Documents/github-projects/colly/lib/utils/index.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/lib/site_template_helper.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/lib/templates/html_email.tmpl",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/lib/templates/helpers/calendar_links.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/lib/templates/this_week.tmpl",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/lib/templates/previous_digests.tmpl",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/lib/templates/latest_tweetgest.tmpl",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/lib/templates/partials/site_top.tmpl",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-node/README.md",
+		"/Users/tmo2367/Documents/github-projects/colly/test/decrypt-vars.js",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-node/test/integrationTests.js",
+		"/Users/tmo2367/Documents/github-projects/colly/package.json",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-node/node_modules/simple-get/index.js",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-node/node_modules/simple-concat/index.js",
+		"/Users/tmo2367/Documents/github-projects/featureflagclient-node/package.json",
+		"/Users/tmo2367/Documents/github-projects/tmp/node_modules/simple-get/package.json",
+		"/Users/tmo2367/Documents/github-projects/featureflagtech-node-client/test/integrationTests.js",
+		"/Users/tmo2367/Documents/github-projects/featureflagtech-node-client/test/unitTests.js",
+		"/Users/tmo2367/Documents/github-projects/featureflagtech-node-client/README.md",
+		"/Users/tmo2367/Documents/github-projects/featureflagtech-node-client/package.json",
+		"/Users/tmo2367/Documents/github-projects/featureflagtech-node-client/index.js",
+		"/Users/tmo2367/Documents/github-projects/colly/test/utils.js",
+		"/Users/tmo2367/Documents/github-projects/data-table-trainee-assessment/index.html",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/web_site/frontend-top-100/email--default.html",
+		"/Users/tmo2367/Documents/github-projects/tmaslen.com/full-profile.html",
+		"/Users/tmo2367/Documents/github-projects/tmaslen.com/index.html",
+		"/Users/tmo2367/Documents/github-projects/colly/README.md",
+		"/Users/tmo2367/Documents/github-projects/colly/lib/run-lambda.js",
+		"/Users/tmo2367/Documents/github-projects/colly/lib/deploy-lambda/createLambda.js",
+		"/Users/tmo2367/Documents/github-projects/colly/lib/deploy-lambda/updateLambda.js",
+		"/Users/tmo2367/Documents/github-projects/colly/test/fixtures/deploy-lambda/dist/FOO.BAR",
+		"/Users/tmo2367/Documents/github-projects/colly/bin/colly-run-lambda",
+		"/Users/tmo2367/Documents/github-projects/colly/bin/colly-deploy-lambda",
+		"/Users/tmo2367/Documents/github-projects/colly/test/fixtures/deploy-lambda/myLambda/function.json",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/processGest/function.json",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/node_modules/colly/lib/utils/index.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/colly.json",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/processGest/index.js",
+		"/Users/tmo2367/Downloads/alert.svg",
+		"/Users/tmo2367/Documents/github-projects/colly/bin/colly",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/todo.md",
+		"/Users/tmo2367/Documents/github-projects/colly/test/deploy-lambda.js",
+		"/Users/tmo2367/Documents/github-projects/colly/lib/deploy-lambda/index.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/node_modules/colly/lib/deploy-lambda/updateLambda.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/node_modules/googleapis/lib/googleapis.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/node_modules/colly/lib/index.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/node_modules/googleapis/package.json",
+		"/Users/tmo2367/Documents/tmp/serverless-application-model/examples/2016-10-31/hello_world/template.yaml",
+		"/Users/tmo2367/Documents/tmp/serverless-application-model/examples/2016-10-31/hello_world/packaged-template.yml",
+		"/Users/tmo2367/Documents/github-projects/data-table-trainee-assessment/feedback.html",
+		"/Users/tmo2367/Documents/github-projects/data-table-trainee-assessment/data.json",
+		"/Users/tmo2367/Documents/github-projects/colly/test/fixtures/deploy-lambda/myLambda/index.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/package.json",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/node_modules/colly/lib/run-lambda.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/tmp.txt",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/node_modules/path-type/package.json",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/node_modules/cp-file/package.json",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/node_modules/colly/package.json",
+		"/Users/tmo2367/Documents/github-projects/colly/lib/encrypt-var.js",
+		"/Users/tmo2367/Documents/github-projects/colly/lib/utils/createIamRole.js",
+		"/Users/tmo2367/Documents/github-projects/colly/lib/deploy-lambda/scheduledEvent.js",
+		"/Users/tmo2367/Documents/github-projects/colly/test/run-lambda.js",
+		"/Users/tmo2367/Documents/github-projects/colly/test/encrypt-var.js",
+		"/Users/tmo2367/Documents/github-projects/colly/test/fixtures/utils/getListOfAdditionalDeploymentAssets/function.json",
+		"/Users/tmo2367/Documents/github-projects/colly/test/fixtures/utils/colly.json",
+		"/Users/tmo2367/Documents/github-projects/colly/test/fixtures/utils/additionalDeploymentAssets/function.json",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/lib/send_gest.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/README.md",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/config/system.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/lib/get_gest_config.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/.envrc",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/node_modules/colly/lib/init-lambda.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/getGestData/function.json",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/dist/node_modules/mimer/mimer.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/dist/node_modules/mimer/lib/exec.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/dist/node_modules/mimer/lib/data/parser.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/node_modules/uglify-js/tools/node.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/scripts/tweetgest-prod_setup.sh",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/scripts/add_credentials.sh",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/colly.dev.json",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/node_modules/node-bitlyapi/node_modules/mime/mime.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/node_modules/node-bitlyapi/node_modules/mime/package.json",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/node_modules/colly/lib/utils/createIamRole.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/lib/get_email_list.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/node_modules/colly/lib/deploy-lambda/createLambda.js",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/colly.test.json",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/processConversations/function.json",
+		"/Users/tmo2367/Documents/github-projects/tweetgest.com/archiveWeeklyGestData/function.json"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"/Users/tmo2367/Documents/github-projects/tweetgest.com/lib"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\n",
+			"1",
+			"JSON.stringify"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"\\\\n",
+			"\\\\n ",
+			"0"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "featureflagclient-python.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/tmo2367/Documents/github-projects/featureflagclient-node"
+		}
+	],
+	"settings":
+	{
+		"python_interpreter": "/Users/tmo2367/.pyenv/versions/3.6.5/bin/python"
+	}
+}
