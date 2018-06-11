@@ -15,7 +15,7 @@ Created by [featureflag.tech](https://featureflag.tech).
 You can install this via pip from the package index as
 
 ```
-pip install git+ssh://git@github.com:tmaslen/featureflagclient-python.git
+pip install featureflagclient
 ```
 
 If you have a JSON file in the cloud like this one:
@@ -98,4 +98,28 @@ pipenv shell
 
 ```
 pytest -v
+```
+
+### Release new version
+
+1) Bump the version number in `setup.py`
+
+2) Delete all the contents of the `dist` dir
+
+3) Create distribution files:
+
+```
+python setup.py sdist bdist_wheel
+```
+
+4) Push to pypi:
+
+```
+twine upload dist/*
+```
+
+5) Check the deployment at:
+
+```
+https://pypi.org/manage/project/featureflagclient/releases/
 ```

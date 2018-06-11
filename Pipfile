@@ -4,12 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+twine = "*"
+
+[dev-packages]
 pytest = "*"
 mypy = "*"
 "flake8" = "*"
 "pep8" = "*"
-
-[dev-packages]
+setuptools="*"
+wheel="*"
+twine="*"
 
 [requires]
 python_version = "3.6"
