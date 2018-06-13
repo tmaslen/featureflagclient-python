@@ -100,6 +100,22 @@ pipenv shell
 pytest -v
 ```
 
+*Lint the project code files*
+
+```
+flake8 featureflagclient/client.py
+flake8 tests/integration_tests.py
+flake8 tests/unit_tests.py
+```
+
+### Updating code
+
+*Use mypy to make python statically typed*
+
+```
+mypy featureflagclient/client.py
+```
+
 ### Release new version
 
 1) Bump the version number in `setup.py`
