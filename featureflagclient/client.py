@@ -1,5 +1,8 @@
 import urllib.request
+import urllib.error
 import json
+
+from typing import Dict, Any
 
 class FeatureflagclientError404(Exception):
 	def __init__(self, value):
@@ -15,11 +18,11 @@ class FeatureflagclientErrorMalformedJson(Exception):
 
 class Featureflagclient:
 
-	features: {}
+	features: Dict[str, Any] = {}
 
-	source_url: ""
+	source_url: str = ""
 
-	def __init__(self, source_url=None, local_feature_flags=None):
+	def __init__(self, source_url: str = None, local_feature_flags: Dict[str, Any] = None) -> None:
 
 		self.features = local_feature_flags or {}
 
@@ -38,7 +41,7 @@ class Featureflagclient:
 				raise FeatureflagclientErrorMalformedJson("Invalid JSON found at " + self.source_url)
 
 
-	def get(self, feature):
+	def get(self, feature: str) -> Any:
 		if ( feature in self.features):
 			return self.features[feature]
 		else:

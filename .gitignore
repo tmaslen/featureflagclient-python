@@ -1,4 +1,5 @@
 .pytest_cache/
+.mypy_cache/
 dist
 featureflagclient_python.egg-info
 featureflagclient.egg-info
